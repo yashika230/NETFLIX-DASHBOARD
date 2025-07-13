@@ -1,6 +1,8 @@
 # NETFLIX- Movies & TV shows Analysis Dashboard
 *This project visualizes global trends in Netflix content using an interactive Tableau dashboard. It explores the distribution of movies and TV shows by genre, country, release year, ratings, and content type.*
 
+---
+
 **🔍 Objective** :-
 
 To derive insights from Netflix’s global catalogue and help understand content trends like:
@@ -12,8 +14,10 @@ To derive insights from Netflix’s global catalogue and help understand content
   -Ratings and duration patterns
   
   -Year-wise content addition growth
+  
+  ---
 
- **Key Insights**:-
+ **🔑Key Insights**:-
  
 📺 Movies dominate the platform with ~68% share.
 
@@ -22,6 +26,8 @@ To derive insights from Netflix’s global catalogue and help understand content
 📅 Peak content addition observed post-2018.
 
 🎭 Top genres include Documentaries, Dramas, and Stand-Up Comedy
+
+---
 
 **📈 Features**:-
 
@@ -36,6 +42,8 @@ To derive insights from Netflix’s global catalogue and help understand content
 -Interactive map showing content by country
 
 -Filter by Title and Type
+
+---
 
 **🛠️ Tools Used**:-
 
